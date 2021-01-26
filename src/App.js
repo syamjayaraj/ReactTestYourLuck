@@ -103,6 +103,11 @@ function App() {
       </Navbar>
 
       <Container>
+        <p className="rule">
+          Here are some meaningless questions and options. In each question, one
+          option is correct. So, answer the 10 questions and find your luck
+          percentage.
+        </p>
         {questionsAndOptions.map((question) => {
           return (
             <Question
