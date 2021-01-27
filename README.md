@@ -12,8 +12,8 @@ https://testyourluck.nilav.in/
 
 ## Run this app
 
-`git clone https://github.com/syamjayaraj/ReactTestYourLuck.git`
-`cd ReactTestYourLuck`
-`npm i`
+`git clone https://github.com/syamjayaraj/ReactTestYourLuck.git`\
+`cd ReactTestYourLuck`\
+`npm i`\
 `npm start`
 
