@@ -9,7 +9,6 @@ function Question(props) {
         <Card.Title>{question.name}</Card.Title>
         <ListGroup>
           {question.options.map((option) => {
-            console.log(option._id, question.selectedOption);
             return (
               <ListGroup.Item
                 disabled={question.selectedOption ? true : null}
